@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "The Key to Healthy Ageing!"
+date:   2017-11-07 22:35:16 -0600
+---
+The Key to Healthy Ageing
+
+A study shows that maternally inherited genetic information influences metabolism and may induce a process of healthier ageing. 
+
+The complete set of genetic material known as genome is found in two different cell organelles: the mitochondria and the nucleus. Nuclear genome is over 500 times greater than mitochondrial genome. Mitochondria are maternally inherited small cellular organelles that function like the engine of the cell converting food into energy used in different vital cellular processes. A study led by researchers of the Centro Nacional de Investigaciones Cardiovasculares in Spain shows that the interaction between our nuclear and mitochondrial DNA triggers a cellular process that affects metabolism and may contribute to healthy ageing. 
+
+Previous studies have pointed out that functional deterioration in mitochondria acts as a regulator of logevity and influences organismal physiology. But little is known about the communication or interaction between nuclear and mtDNA failing to explain how does this might affect the theory that ageing comes from changes in mitochondria. In a new holistic analysis, Latorre-Pellicer and colleagues propose that mtDNA variants in mice actually could be responsible for a healthier longevity process. By using state-of-the-art techniques researchers analyzed two different types of mice; one type has their own nuclear and mtDNA genome inherited from the mother, while the second type has their own nuclear genome but mtDNA inherited from a different mother. The purpose of using this interspecies combination is to mirror the mtDNA difference between human ancestral Eurasian and African mtDNA. One of the key findings shows that mice with the mtDNA variant  extended a median life span by 16% in comparison with mice without the mtDNA variant, they also showed a delayed metabolic deterioration and lower tumor incidence.
+
+By looking at different organs such as heart and liver in mice, researchers found a healthier disposition, an extended median lifespan and fewer signs of ageing. Likewise, individuals with the mtDNA variant are less prone to obesity, diabetes and even to the development of tumors. It is important to notice that the healthier condition is not caused by that particular variant but by the interaction between the two genomes. The interaction between nuclear and mtDNA might be sufficient to promote differences in metabolic deterioration and induce a healthy process in ageing. 
+
+The objective of the study is to show how the interaction  between the nuclear and mitochondrial genome shapes metabolism and induces healthy ageing. Even tough the experiments have to be repeated on species other than mice, before we can extrapolate the phenomenon to humans, the study of the small mitochondrial genome and its interaction with nuclear DNA might start answering questions researchers have asked for years. How can we improve health? Could ageing be delayed or even reversible? be the beginning of a new field of research to achieve a better quality of life.  
+
+This suprising study provides a foundation for future research on how to improve quality of life just by looking at the interaction between the nuclear and mtDNA genome. It also opens the door to exciting implications in the emerging field of mitochondrial replacement therapy in human egg cells. This technique proposes to replace mutated mtDNA with mtDNA from a healthy donor to prevent the transmission of mitochondrial diseases from the mother to her child, such as diabetes and other syndromes related to specific mutations in the mtDNA.
